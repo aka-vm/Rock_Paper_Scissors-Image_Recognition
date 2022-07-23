@@ -4,6 +4,7 @@
 mode_code_ignore
 __pycache__
 notebooks/.ipynb_checkpoints
+/models
 
 dataset
 notebooks/test_file.ipynb

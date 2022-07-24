@@ -4,6 +4,7 @@ This Repo contains a simple image recognition model that recogonises rock, paper
 ### Dataset
 The [Dataset](https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset) is taken from [Kaggle](http://kaggle.com). It contains computerised images of rock, paper and scissors hand gesture created by [Laurence Moroney](https://laurencemoroney.com/datasets.html).
 ### Results
+After Leaving thins project alone for a long time, I implimented my `transfer-learning` pipeline. The new results are great...
 | S. No | Accuracy | Model | Highlights |
 |---|---|---|---|
 | 1  | 79.84% | Sequential Model | 4 Convs, 3 Dense |
